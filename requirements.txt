@@ -1,3 +1,6 @@
-python-dotevn
 pandas
 numpy
+pymongo
+certifi
+
+##-e .
